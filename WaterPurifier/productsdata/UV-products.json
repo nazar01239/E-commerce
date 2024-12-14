@@ -1,0 +1,182 @@
+[
+    {
+        "id": "UV-1",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-2",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-3",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-4",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-5",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-6",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-7",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-8",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-9",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-10",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-11",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-12",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-13",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-14",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-15",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-16",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-17",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-18",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id":"UV-19",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "UV-20",
+        "name": "WaterPurifier UV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a UV purifier",
+        "type":"UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "id": "Parts-1",
+        "name": "Sediment",
+        "image": "/images/slide-img-1.png",
+        "description": "Lorem, ipsum  ",
+        "type":"Parts",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "Parts-2",
+        "name": "Post Corbon",
+        "image": "/images/slide-img-2.png",
+        "description": "Lorem, ipsum  ",
+        "type":"Parts",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "Parts-3",
+        "name": "Spun",
+        "image": "/images/slide-img-1.png",
+        "description": "Lorem, ipsum  ",
+        "type":"Parts",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "Parts-4",
+        "name": "Membrain",
+        "image": "/images/slide-img-2.png",
+        "description": "Lorem, ipsum  ",
+        "type":"Parts",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "Parts-5",
+        "name": "Pre Corbon",
+        "image": "/images/slide-img-1.png",
+        "description": "Lorem, ipsum  ",
+        "type":"Parts",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "Parts-6",
+        "name": "UV-light",
+        "image": "/images/slide-img-2.png",
+        "description": "Lorem, ipsum  ",
+        "type":"Parts",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "Parts-7",
+        "name": "Float",
+        "image": "/images/slide-img-1.png",
+        "description": "Lorem, ipsum  ",
+        "type":"Parts",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "Parts-8",
+        "name": "Tubes",
+        "image": "/images/slide-img-2.png",
+        "description": "Lorem, ipsum  ",
+        "type":"Parts",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "Parts-9",
+        "name": "SV Volve",
+        "image": "/images/slide-img-1.png",
+        "description": "Lorem, ipsum  ",
+        "type":"Parts",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "Parts-10",
+        "name": "FR stoper",
+        "image": "/images/slide-img-2.png",
+        "description": "Lorem, ipsum  ",
+        "type":"Parts",
+        "cost":9000,
+        "liters":"16lit"
+    }
+]

@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --text: #2a2735;
+    --background: #ecf0f7;
+    --primary: #dae5f3;
+    --secondary: #587cac;
+    --accent: #104557;
+
+    --backcground-color:#EEF5FF;
+    --secondary-background-color:#B4D4FF;
+    --text-color: rgb(255, 255, 255);
+    --block-colors:var(--secondary);
+    --secondary--block-color: #1d1d1d;
+    --block-border-size: 3px;
+    --default-container-height: 600px;
+    --default-container-width: 100%;
+    /* landingpage-size */
+    --landPG-block-width: 50%;
+    --secondary-height: 400px;
+
+    /* products-dependencies */
+    /* color  */
+    --slide-block-colors: #86B6F6;
+    --slide-background-color: #B4D4FF;
+    --item-block-color: rgb(255, 255, 255);
+    /* size  */
+    --slide-block-height: 313px;
+    --slide-block-width: 400px;
+    --image-slide-height: 300px;
+    --image-slide-width: 100%;
+    --item-block-height: 250px;
+    --item-block-width: 200px;
+    --item-block-margin: 02rem 1rem 2rem 0rem;
+    --item-block-border-radius: 30px;
+
+    /* button-dependies  */
+
+    --button-radius: 10px;
+    --button-background-color:#176B87;
+    --button-text-color: #ffff;
+    --button-padding: 10px 20px 10px 20px;
+    /* hower after functions */
+    --button-hover-after-background:#86B6F6 ;
+    --button-hover-after-border: 1px solid #176B87;
+    --button-hover-after-padding: 10px 20px 10px 20px;
+    --button-font-size: large;
+    --button-hover-box-shadow: rgba(0, 0, 0, 0.477) 1px 3px 2px 0px;
+    --button-hover-transition: 0.2s ease-out;
+}
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: var(--backcground-color);
+    font-family: "Poppins", sans-serif;
+    border-top: 3px solid black;
+    margin-top: 90px;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding-bottom: 20px;
+    background-color: var(--backcground-color);
+    z-index: 1000;
+}
+
+.navdiv {
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+}
+
+
+.logo>a {
+    text-decoration: none;
+    color: var(--text-color);
+
+    img {
+        padding-top: 10px;
+        height: 40px;
+    }
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+
+    a {
+        text-decoration: none;
+        color: black;
+
+    }
+
+    button {
+        background-color: var(--backcground-color);
+        border: none;
+    }
+}
+
+li>a:hover::after {
+    text-decoration: dashed black;
+}
+.product-container
+{ 
+    height:640px;
+    display:flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+}
+.products
+{
+    padding: 30px;
+    margin-left: 150px;
+    margin-top:50px ;
+    margin-bottom:50px;
+    height:25rem;
+    width:50rem;
+    border-radius: 20px;
+    background-color:var(--secondary-background-color);
+    box-shadow: var(--backcground-color) 0px 0px 0px 2px inset, rgb(0, 0, 0) -20px 20px;
+}
+.products-details{
+    width: fit-content;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top:50px ;
+    margin-bottom:50px;
+    padding-top: 3rem;
+}
+.container.filterDetails
+{
+    padding:150px 0px 150px 0px;
+    width: 100%;
+    background-color:var(--secondary-background-color);
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.filters
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 50%;
+}
+.filter 
+{
+    background-color: var(--block-colors);
+    width: 10rem;
+    height: 30rem;
+    border-top-left-radius: 0px;
+    border-top-Right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.details
+{
+    padding-top: 40px;
+    width:40%;
+}
+
+.RO-filter-details
+{
+    padding:150px 0px 150px 0px;
+    width: 100%;
+    background-color:var(--block-colors);
+    display:flex;
+    justify-content: space-evenly;
+}
+.RO-filter 
+{
+    height: 20rem;
+    width: 20rem;
+    background-color: var(--secondary-background-color);
+    border:7px solid var(--block-colors) ;
+    border-top-left-radius: 0px;
+    border-top-Right-radius:60px;
+    border-bottom-left-radius: 60px;
+    box-shadow: black 90px -90px 0px 0px;
+}
+.RO-details 
+{
+    width: 40%;
+}

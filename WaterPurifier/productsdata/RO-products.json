@@ -1,0 +1,183 @@
+[
+   
+    {
+        "id": "RO-1",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-2.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-2",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-1.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-3",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-2.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-4",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-1.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-5",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-2.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-6",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-1.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-7",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-2.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-8",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-1.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-9",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-2.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-10",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-1.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-11",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-2.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-12",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-1.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-13",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-2.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-14",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-1.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id":"RO-15",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-2.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-16",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-1.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-17",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-2.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-18",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-1.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-19",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-2.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "RO-20",
+        "name": "WaterPurifier RO",
+        "image": "/images/slide-img-1.png",
+        "description": "Lorem, ipsum  ",
+        "type":"RO purifier",
+        "cost":9000,
+        "liters":"16lit"
+    }
+]

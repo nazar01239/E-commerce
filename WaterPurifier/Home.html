@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="Home.css">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="container navdiv">
+                <div class="logo">
+                    <a href="Home.html">
+                        <img src="/images/L9MwBooeE5zxPY3Ny9xdf-transformed (1).png " alt="O Black Pearl">
+                    </a>
+                </div>
+                <ul class="nav-items">
+                    <li class="nav-links">
+                        <a href="/Home.html">Home</a>
+                    </li>
+                    <li class="nav-links">
+                        <a href="#about">AboutUS</a>
+                    </li>
+                    <li class="nav-links">
+                        <a href="/products.html">Product</a>
+                    </li>
+                    <li class="nav-links">
+                        <a href="products.html?clickButton=btn-Parts" id="Service">Services</a>
+                    </li>
+                    <li class="nav-buttons">
+                        <button onclick="window.location.href=`cart.html`">
+                            <img src="/images/shopping-cart-01-stroke-rounded.svg" alt="cart" id="btn-cart">
+                        </button>
+                        <span>0</span>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Landing page -->
+        <div class="container landing-page">
+            <div class="Image-block"><img src="/images/WhatsApp Image 2024-04-25 at 09.47.08_354e5e6f.jpg" alt="slide-img-1"></div>
+            <div class="Text-block">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam accusantium facere ipsam veritatis laborum numquam ratione maiores eaque velit, nostrum maxime culpa dignissimos error, quae optio esse. Illum, qui sequi quos ut at consequuntur reprehenderit. Modi, voluptatem. Dolorum saepe esse tempore optio perspiciatis magnam, est illo quibusdam culpa doloribus ut?</p>
+            </div>
+        </div>
+
+        <!-- Sliding window -->
+        <div class="slider">
+            <div class="slides-container">
+                <div class="slides">
+                    <div class="slide"><img src="/images/WhatsApp Image 2024-04-25 at 09.47.08_354e5e6f.jpg" alt="Image 1"></div>
+                    <div class="slide"><img src="/images/da4d0640b1cf3341ac20fdaba0214bac.jpg" alt="Image 2"></div>
+                    <div class="slide"><img src="/images/WhatsApp Image 2024-04-25 at 09.47.08_354e5e6f.jpg" alt="Image 3"></div>
+                </div>
+                <button class="prev" onclick="moveSlide(-1)">&#10094;</button>
+                <button class="next" onclick="moveSlide(1)">&#10095;</button>
+            </div>
+            <div class="text-container">
+                <div class="text active">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, culpa.</div>
+                <div class="text">Animi voluptatem quidem iusto quibusdam enim non dolorum totam inventore! Itaque, quisquam.</div>
+                <div class="text">Error saepe quos accusantium odit ut repellat animi? Itaque!</div>
+            </div>
+        </div>
+
+        <!-- About page -->
+        <div class="container About-page" id="about">
+            <div class="About-Text-block">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam accusantium facere ipsam veritatis laborum numquam ratione maiores eaque velit, nostrum maxime culpa dignissimos error, quae optio esse. Illum, qui sequi quos ut at consequuntur reprehenderit. Modi, voluptatem. Dolorum saepe esse tempore optio perspiciatis magnam, est illo quibusdam culpa doloribus ut?</p>
+            </div>
+            <div class="About-Image-block"><img src="/images/slide-img-1.png" alt="about-img"></div>
+        </div>
+
+        <!-- RO Purifiers -->
+        <div class="container RO-filter-block">
+            <div class="RO-filter-details">
+                <h4>RO Purifiers</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam perspiciatis quas exercitationem officiis rem deserunt!</p>
+                <button onclick="window.location.href=`products.html?clickButton=btn-RO`">show more ⇾</button>
+            </div>
+            <div class="RO-filter-sliding-images">
+                <div class="belt" id="ro-products">
+                    <!-- RO products will be dynamically inserted here -->
+                </div>
+            </div>
+        </div>
+
+        <!-- UV Purifiers -->
+        <div class="container UV-filter-block">
+            <div class="UV-filter-details">
+                <h4>UV Purifiers</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam perspiciatis quas exercitationem officiis rem deserunt!</p>
+                <button onclick="window.location.href=`products.html?clickButton=btn-UV`">show more ⇾</button>
+            </div>
+            <div class="UV-filter-sliding-images">
+                <div class="belt" id="uv-products">
+                    <!-- UV products will be dynamically inserted here -->
+                </div>
+            </div>
+        </div>
+
+        <!-- RO and UV Purifiers -->
+        <div class="container ROandUV-filter-block">
+            <div class="ROandUV-filter-details">
+                <h4>RO with UV Purifiers</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam perspiciatis quas exercitationem officiis rem deserunt!</p>
+                <button onclick="window.location.href=`products.html?clickButton=btn-ROUV`">show more ⇾</button>
+            </div>
+            <div class="ROandUV-filter-sliding-images">
+                <div class="belt" id="rouv-products">
+                    <!-- RO and UV products will be dynamically inserted here -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+
+        <!-- Contact Page  -->
+        <!-- contacts -->
+        <div class="container black-pearl Contacts">
+            <div class="container address">
+                <img src="/images/L9MwBooeE5zxPY3Ny9xdf-transformed (1).png" alt="">
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint, vero?</p>
+                <h6>+00 0000000000</h6>
+                <h6>+00 0000000000</h6>
+                <br />
+                <h6>f</h6>
+                <h6>i</h6>
+                <h6>w</h6>
+            </div>
+            <div class="links">
+                <h3>Links</h3>
+                <div class="Home">Home</div>
+                <div class="AboutUS">AboutUS</div>
+                <div class="Services & Parts">Services & Parts</div>
+                <div class="home">xxxxxx</div>
+                <div class="home">yyyyyy</div>
+            </div>
+        </div>
+        <!-- Manufacturers-page -->
+        <div class="manufacturers-details">
+            <div class="manufacturer manufacturer-1">manufacturer</div>
+            <div class="manufacturer manufacturer-2">manufacturer</div>
+            <div class="manufacturer manufacturer-3">manufacturer</div>
+            <div class="manufacturer manufacturer-4">manufacturer</div>
+            <div class="manufacturer manufacturer-5">manufacturer</div>
+        </div>
+    </footer>
+    <script src="/Home.js"></script>
+</body>
+</html>

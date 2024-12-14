@@ -1,0 +1,182 @@
+[
+    {
+        "id": "ROUV-1",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-2",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-3",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-4",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-5",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-6",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-7",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-8",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-9",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-10",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-11",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-12",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-13",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-14",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-15",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-16",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-17",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-18",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-19",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    },
+    {
+        "id": "ROUV-20",
+        "name": "WaterPurifier ROUV",
+        "image": "/images/slide-img-1.png",
+        "description": "It is a ROUV purifier",
+        "type":"RO and UV purifier",
+        "cost":9000,
+        "liters":"16lit"
+    }
+]

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/products.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="container navdiv">
+                <div class="logo">
+                    <a href="Home.html">
+                        <img src="/images/L9MwBooeE5zxPY3Ny9xdf-transformed (1).png " alt="O Black Pearl">
+                    </a>
+                </div>
+                <ul class="nav-items">
+                    <li class="nav-links">
+                        <a href="/Home.html">Home</a>
+                    </li>
+                    <li class="nav-links">
+                        <a href="#about">AboutUS</a>
+                    </li>
+                    <li class="nav-links">
+                        <a href="/products.html">Product</a>
+                    </li>
+                    <li class="nav-links">
+                        <a href="products.html?clickButton=btn-Parts" id="Service">Services</a>
+                    </li>
+                    <li class="nav-buttons">
+                        <button onclick="window.location.href=`cart.html`">
+                            <img src="/images/shopping-cart-01-stroke-rounded.svg" alt="cart" id="btn-cart">
+                        </button>
+                        <span>0</span>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <div class="container Products-Page">
+            <div class="tab navigating buttons">
+                <button id="btn-all" class="active">All</button>
+                <button id="btn-RO">RO Purifiers</button>
+                <button id="btn-UV">UV Purifiers</button>
+                <button id="btn-ROUV">RO & UV Purifiers</button>
+                <button id="btn-Parts">Service & Parts</button>
+            </div>
+            <div class="vertical line"></div>
+            <div class="container products-sections">
+                <h2 id="all-TXT">All Products</h2>
+                <div class="product all" id="all">
+                    <!-- all products are appears here -->
+                </div>
+
+                <h2 id="RO-TXT">RO Product</h2>
+                <div class="product RO" id="RO">
+                    <!-- RO purifier products are displayed here -->
+                </div>
+
+                <h2 id="UV-TXT">UV Product</h2>
+                <div class="product UV" id="UV">
+                    <!-- UV purifier products are displayed here -->
+                </div>
+
+                <h2 id="ROUV-TXT">RO with UV Product</h2>
+                <div class="product ROwithUV" id="ROUV">
+                    <!-- ROUV purifier products are displayed here -->
+                </div>
+
+                <h2 id="Parts-TXT">Services and Parts</h2>
+                <div class="servicesAndParts">
+                    <div class="services" id="services">
+                        <div class="image-block"><img src="/images/serviceIMG.png" alt="serviceimage"></div>
+                        <div class="text-block">
+                            <h2>Services</h2>
+                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe quos earum, voluptas perferendis omnis minus ad quam laudantium sequi accusamus!</p>
+                            <button>Contact</button>
+                        </div>
+                    </div>
+                    <div class="product Parts" id="Parts">
+                        <!-- parts are displayed here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer></footer>
+    <script src="/products.js"></script>
+</body>
+</html>
